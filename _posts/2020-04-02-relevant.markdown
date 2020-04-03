@@ -1,0 +1,23 @@
+---
+layout: post
+title: Better relevant than right
+date: 2015-10-20 11:59:00-0400
+description: an example of a blog post with comments
+comments: true
+---
+
+George Box famously put it "All models are wrong some are useful", but he forgot to mention that others are harmful. The covid epidemic gives us a insight about what this is so.
+See Mdlow random walk book, oj simpson, prob low that if a woman is death the housband did it, the relvant is given that a wife is dead and the husband has antecepdents beaten her up, the probability is high, the former proposed by the same lawyer that help donaldo got acquited of impeachment is true, but the last case is the relevant one.
+
+We may fail to know when we are wrong, but we more easily point out to someone else wrongness, specially when we have the time in our favor. The hall of fame of famous pitfalls contains preferably large errors of famous people Bill Gates "no more than 4k", Krugman "internet fax machine" or most recently the space enterpreneur and ubermensch a la mode Elon Musk "is dumb to  worry about the virus".
+These missjudgement  are not out and in themselves cause harm, apart from and the reciprocal schodenfraude of the monday mornign quarterbacking.
+There are however, cases in which an opinion or idea from someone in a position of power or professional prestige specially when deloiver mediatically can result in great pain and suffering.
+The covid pandemia is a case in point. It is know painful, as to efface any remain of teutonic schaudefrade, to watch today the admionitions and  forecasts  of some expert in virology and public health just a few weeks before entire cpuntries were shutdown and improvised morgues need to be settle to cope with the incesant number of deceased bodies at an astounding rate. Take for example, virologist Roberto and Italian Health Misistry ina prime tv national tv intervention that is painful to watch, the experti virologist ex catedra went as far as saying that the probability of contagion is 0, the young minister did not miss the occassion to pitch to the, in ligh of the events, credulous audience how well hospitals were prepared for any emergence raleted to virus. It is not necessary to add harm to injury with the country thta has suffered the most, blatantly wrong statements about the consequences of the epedemia are too many to list, the WHO "" is certainly not without blame. 
+In the UK , models can be harmful.
+
+So it must be cleara wrong model are not inocuous and can be lethal. But. it is enough to be right? No. Elon Musk, corrected his previous misjudmement and rightly said that a exponential curves do not oiccur in the natural world, he pointed out, and rightly so, that a realistic curve of contagion would look more like a sigmoid function, that is, the number of cases will grop fastly but it will reach a saturation poiint, a plateu, or in today's mediatic parlance the curve will have flatten. This indictment is precisely correct, any biological phenomemon can grow  exponetially unchecked, metabolic processes are necessrily bounded.
+However, this is right but not relevant, notice that the curve will be a soigmoid is irrelevant what really matter is to be able to tell when the curve saturates, if it saturates at 8B people deaths human species means that humans in plaet earth have ceased to exist,on the other hand, if it saturates at 100K for those unaffected it will buisness as usual, and the narrative of economic recovery being an U or a V or a W will occupy economists and pundits, the l;etter model a perfect example of useless model.
+
+We are left to being relevant, which is being right at the right time, in the previous example is telling not only that the curve is a sigmoid but when it saturates.
+For that we need complex systems and non linear duynamics.
+
